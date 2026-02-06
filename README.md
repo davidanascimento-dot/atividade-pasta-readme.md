@@ -1,2 +1,2 @@
 # atividade-pasta-readme.md
-quem fez:
+quem fez: David de Araújo e Victor hugo
